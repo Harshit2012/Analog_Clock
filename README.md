@@ -13,3 +13,5 @@ A responsive and stylish analog clock with dynamic styling. The clock features t
 - Accurate timekeeping
 ## How to Use
 - Simply open the index.html file in your web browser, and the dynamic analog clock will be displayed.
+## Try it out
+Try this website by clicking [here](https://harshit2012.github.io/Analog_Clock/)
